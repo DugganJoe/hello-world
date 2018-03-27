@@ -1,1 +1,2 @@
 "Added first line to second file" 
+"Added second line to second file" 
